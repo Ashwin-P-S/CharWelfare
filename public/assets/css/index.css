@@ -1,0 +1,30 @@
+body {
+    background-size: cover;
+    background: url("/assets/img/background.jpg") fixed center;
+    color: #fff;
+}
+
+li {
+    font-size: 1rem;
+}
+
+th, td {
+    padding: 10px;
+}
+
+label {
+    color: #fff;
+}
+
+table {
+    background: #1F2544;
+    width: 100%;
+    border-radius: 20px;
+    padding: 50px;
+    color: #fff;
+}
+
+.my-btn:hover {
+    transition: .3s;
+    border-radius: 0;
+}
